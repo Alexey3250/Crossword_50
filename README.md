@@ -1,6 +1,6 @@
 # Crossword Puzzle Generator
 
-<img src="https://i.imgur.com/3loXAn9.jpg" width = 600>
+<img src="https://i.imgur.com/3loXAn9.jpg" width = 800>
 
 ## About the Project
 
