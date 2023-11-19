@@ -36,8 +36,18 @@ This project can be used to generate crossword puzzles of various sizes and comp
 ### Running the Generator
 
 Run the generator using the command:
-
-$ python generate.py data/structure1.txt data/words1.txt output.png ██████████████ ███████M████R█ █INTELLIGENCE█ █N█████N████S█ █F██LOGIC███O█ █E█████M████L█ █R███SEARCH█V█ ███████X████E█ ██████████████
+```python
+$ python generate.py data/structure1.txt data/words1.txt output.png 
+```
+██████████████
+███████M████R█
+█INTELLIGENCE█
+█N█████N████S█
+█F██LOGIC███O█
+█E█████M████L█
+█R███SEARCH█V█
+███████X████E█
+██████████████
 
 Replace `structure1.txt` and `words1.txt` with your own files as needed.
 
