@@ -39,16 +39,8 @@ Run the generator using the command:
 ```python
 $ python generate.py data/structure1.txt data/words1.txt output.png 
 ```
-██████████████
-███████M████R█
-█INTELLIGENCE█
-█N█████N████S█
-█F██LOGIC███O█
-█E█████M████L█
-█R███SEARCH█V█
-███████X████E█
-██████████████
-
+<img src="https://i.imgur.com/NW231Q2.png">
+<img src="https://i.imgur.com/IvEp1Nt.png" width =600>
 Replace `structure1.txt` and `words1.txt` with your own files as needed.
 
 ## Project Structure
